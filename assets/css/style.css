@@ -77,12 +77,11 @@ p {
 
 
 /*What we do section */
-.content {
+.what-we-do {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
 
 /* SEO article */
 .search-engine-optimization {
@@ -121,7 +120,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 /* Social Media Markering Article */
 .social-media-marketing {
@@ -202,6 +200,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
 
 
 /* Footer */
