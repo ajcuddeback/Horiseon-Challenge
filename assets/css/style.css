@@ -153,17 +153,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -178,7 +168,6 @@ aside h3 {
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 
 /* Footer */
